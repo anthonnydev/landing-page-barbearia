@@ -62,6 +62,10 @@ i{
         align-items: center;
         justify-content: center;
 
+        .header-icons{
+            max-width: 100%;
+        }
+
         i{
             margin-top: 16px;
             font-size: 34px;
