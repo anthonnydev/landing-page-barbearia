@@ -14,4 +14,4 @@ Projeto desenvolvido em 2 aulas com Matheus Fraga (Sujeito programador). Foram m
 
 ## Acesso
 
-<a href="https://landing-page-barbearia-anthonnys-projects.vercel.app/">Confira o projeto aqui!</a>
+<a href="https://landing-page-barbearia-anthonnys-projects.vercel.app/" target="_blank">Confira o projeto aqui!</a>
